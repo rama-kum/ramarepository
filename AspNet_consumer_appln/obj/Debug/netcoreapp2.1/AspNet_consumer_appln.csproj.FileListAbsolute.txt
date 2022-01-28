@@ -1,0 +1,16 @@
+E:\AspNet_consumer_appln\AspNet_consumer_appln\obj\Debug\netcoreapp2.1\AspNet_consumer_appln.csprojAssemblyReference.cache
+E:\AspNet_consumer_appln\AspNet_consumer_appln\obj\Debug\netcoreapp2.1\AspNet_consumer_appln.RazorAssemblyInfo.cache
+E:\AspNet_consumer_appln\AspNet_consumer_appln\obj\Debug\netcoreapp2.1\AspNet_consumer_appln.RazorAssemblyInfo.cs
+E:\AspNet_consumer_appln\AspNet_consumer_appln\obj\Debug\netcoreapp2.1\AspNet_consumer_appln.AssemblyInfoInputs.cache
+E:\AspNet_consumer_appln\AspNet_consumer_appln\obj\Debug\netcoreapp2.1\AspNet_consumer_appln.AssemblyInfo.cs
+E:\AspNet_consumer_appln\AspNet_consumer_appln\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\AspNet_consumer_appln\AspNet_consumer_appln\bin\Debug\netcoreapp2.1\appsettings.json
+E:\AspNet_consumer_appln\AspNet_consumer_appln\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\AspNet_consumer_appln\AspNet_consumer_appln\bin\Debug\netcoreapp2.1\AspNet_consumer_appln.deps.json
+E:\AspNet_consumer_appln\AspNet_consumer_appln\bin\Debug\netcoreapp2.1\AspNet_consumer_appln.runtimeconfig.json
+E:\AspNet_consumer_appln\AspNet_consumer_appln\bin\Debug\netcoreapp2.1\AspNet_consumer_appln.runtimeconfig.dev.json
+E:\AspNet_consumer_appln\AspNet_consumer_appln\bin\Debug\netcoreapp2.1\AspNet_consumer_appln.dll
+E:\AspNet_consumer_appln\AspNet_consumer_appln\bin\Debug\netcoreapp2.1\AspNet_consumer_appln.pdb
+E:\AspNet_consumer_appln\AspNet_consumer_appln\obj\Debug\netcoreapp2.1\AspNet_consumer_appln.RazorTargetAssemblyInfo.cache
+E:\AspNet_consumer_appln\AspNet_consumer_appln\obj\Debug\netcoreapp2.1\AspNet_consumer_appln.dll
+E:\AspNet_consumer_appln\AspNet_consumer_appln\obj\Debug\netcoreapp2.1\AspNet_consumer_appln.pdb
